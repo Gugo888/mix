@@ -95,3 +95,6 @@
 // console.log(x(30));
 // console.log(x(50));
 
+function f() {
+    console.log('barev dzez')
+}
